@@ -1,3 +1,5 @@
+## About Me: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 -👋 Hola, soy **@Sebas-Bello**, un apasionado analista de datos y entusiasta de la tecnología.
 
 -👀 Estoy interesado en explorar nuevas oportunidades y desafíos en el mundo del análisis de datos y la ciencia de datos. Mi pasión se centra en el aprovechamiento de datos para obtener perspicacias valiosas y tomar decisiones informadas.
