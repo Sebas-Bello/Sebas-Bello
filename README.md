@@ -19,7 +19,7 @@
 -📫 Cómo contactarme: Puedes conectarte conmigo aquí en LinkedIn o a través de mi dirección de correo electrónico en ¡Espero con interés conocerte y explorar posibilidades de colaboración!
 
 [<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=115>](https://www.linkedin.com/in/sebastian-bello/)
-[<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=90>](sebello123@gmail.com)
+[<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=95>](sebello123@gmail.com)
 
 
 
