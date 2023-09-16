@@ -1,3 +1,7 @@
+<div align="center">
+https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif
+</div>
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me: 
 
 -👋 Hola, soy **@Sebas-Bello**, un apasionado analista de datos y entusiasta de la tecnología.
@@ -8,10 +12,13 @@
 
 -💞️ Estoy buscando colaborar en proyectos emocionantes relacionados con el análisis de datos, donde pueda aplicar mis conocimientos y contribuir al éxito del equipo. También estoy abierto a oportunidades de consultoría y asesoramiento en el campo del análisis de datos.
 
--📫 Cómo contactarme: Puedes conectarte conmigo aquí en [LinkedIn](https://www.linkedin.com/in/sebastian-bello/) o a través de mi dirección de correo electrónico en sebello123@gmail.com. ¡Espero con interés conocerte y explorar posibilidades de colaboración!
-
 ## 🌐 Socials:
 
+-📫 Cómo contactarme: Puedes conectarte conmigo aquí en LinkedIn o a través de mi dirección de correo electrónico en ¡Espero con interés conocerte y explorar posibilidades de colaboración!
+
+[LinkedIn](https://www.linkedin.com/in/sebastian-bello/)
+
+sebello123@gmail.com.
 
 ## 💻 Tech Stack:
 
