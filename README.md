@@ -10,6 +10,7 @@
 
 -📫 Cómo contactarme: Puedes conectarte conmigo aquí en [LinkedIn](https://www.linkedin.com/in/sebastian-bello/) o a través de mi dirección de correo electrónico en sebello123@gmail.com. ¡Espero con interés conocerte y explorar posibilidades de colaboración!
 
+---
 
 <div align="center">
 
