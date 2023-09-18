@@ -4,13 +4,13 @@
 
 -👀 Estoy interesado en explorar nuevas oportunidades y desafíos en el mundo del análisis de datos y la ciencia de datos. Mi pasión se centra en el aprovechamiento de datos para obtener perspicacias valiosas y tomar decisiones informadas.
 
--🌱 Actualmente estoy aprendiendo sobre prompt engineering y Algoritmos de negociación basados en machine learning, mientras me mantengo actualizado en las últimas tendencias de análisis de datos y herramientas relacionadas.
+-📚 Actualmente estoy aprendiendo sobre prompt engineering y Algoritmos de negociación basados en machine learning, mientras me mantengo actualizado en las últimas tendencias de análisis de datos y herramientas relacionadas.
 
--💞️ Estoy buscando colaborar en proyectos emocionantes relacionados con el análisis de datos, donde pueda aplicar mis conocimientos y contribuir al éxito del equipo. También estoy abierto a oportunidades de consultoría y asesoramiento en el campo del análisis de datos.
+-🎯 Estoy buscando colaborar en proyectos emocionantes relacionados con el análisis de datos, donde pueda aplicar mis conocimientos y contribuir al éxito del equipo. También estoy abierto a oportunidades de consultoría y asesoramiento en el campo del análisis de datos.
 
 ## 🌐 Socials:
 
--📫 Cómo contactarme: Puedes conectarte conmigo aquí en LinkedIn o a través de mi dirección de correo electrónico en ¡Espero con interés conocerte y explorar posibilidades de colaboración!
+-📫 Puedes conectarte conmigo aquí en LinkedIn o a través de mi dirección de correo electrónico en ¡Espero con interés conocerte y explorar posibilidades de colaboración!
 
 [<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=115>](https://www.linkedin.com/in/sebastian-bello/)
 [<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=93>](mailto:sebello123@gmail.com)
