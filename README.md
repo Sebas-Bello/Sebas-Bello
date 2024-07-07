@@ -41,6 +41,4 @@
 
 ***Agradezco tu interés en visitar mi perfil de GitHub. Valorando tu tiempo, espero que encuentres información relevante y proyectos interesantes. Explorar mi trabajo es una ventana al mundo de la tecnología y el desarrollo, y me complace que estés aquí. Siéntete libre de explorar mis repositorios y contribuciones, y no dudes en conectarte si tienes alguna pregunta o comentario. ¡Espero que disfrutes navegando a través de mi perfil y descubriendo más sobre mi pasión por la tecnología!***
  
-<img src="https://github.com/Sebas-Bello/PI02_DA/blob/c7139df4c2a75127c9940111e73db6ca6ce88e60/Sticker.jpg" width="307" height="280">
-
 </div>
